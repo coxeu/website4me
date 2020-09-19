@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "heyemc2.com"
 languageCode = "en-us"
 title = "Eugene's Website"
 theme = "hugo-lithium"
