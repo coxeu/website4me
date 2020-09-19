@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eugene&#39;s Website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Eugene&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my website!</title>
+      <link>/2020/08/01/welcome-to-my-website/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/01/welcome-to-my-website/</guid>
+      <description>Hey all! Welcome to my new website! Its been awhile since i&amp;rsquo;ve posted on a blog(Myspace/Xanga days!). This is sort of a blog documenting my PhD progress while also subltly mixing in aspects of my social life. I&amp;rsquo;ll try to update this frequently.</description>
+    </item>
+    
+  </channel>
+</rss>

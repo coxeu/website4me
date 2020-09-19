@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eugene&#39;s Website</title>
+    <link>/</link>
+    <description>Recent content on Eugene&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a 2nd year Ph.D. student in the Informatics Department at University of Illinois at Urbana-Champaign, advised by Dr. Cynthia D&amp;rsquo;Angelo.
+  My research focuses on studying collaborative learning in the classroom. I&amp;rsquo;m also broadly interested in the areas of Human-Computer Interaction &amp;amp; Accessibility. I’m currently working measuring group collaboration by analyzing speech data. I am also interested in ways to automate assessing group collaboration using classroom audio.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>HomeSHARE: Designing Data Visualizations for Older Adults ProHealth REU Researchers Hanifa Hotelwala and Eugene Cox at Indiana University are developing data visualizations for older adults designed to help older adults age-in-place. The project “Home Share” is an NSF-funded geographically distributed testbed to allow researchers to investigate and evaluate pervasive technologies inside of homes designed to allow older adults to age-in-place.Researchers conducted Co-design sessions with older adults to better understand their needs.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my website!</title>
+      <link>/2020/08/01/welcome-to-my-website/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/01/welcome-to-my-website/</guid>
+      <description>Hey all! Welcome to my new website! Its been awhile since i&amp;rsquo;ve posted on a blog(Myspace/Xanga days!). This is sort of a blog documenting my PhD progress while also subltly mixing in aspects of my social life. I&amp;rsquo;ll try to update this frequently.</description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hobbies/</guid>
+      <description>Most of my hobbies revolve around my research interests in human-computer interaction &amp;amp; accessibility. I also enjoy music, mechanical keyboards, playing starcraft &amp;amp; reading fantasy novels (Harry Potter)</description>
+    </item>
+    
+  </channel>
+</rss>
